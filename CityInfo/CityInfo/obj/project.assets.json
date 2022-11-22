@@ -1952,11 +1952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nicholasokolo/Documents/GitHub/CityInfo/CityInfo/CityInfo.csproj",
+      "projectUniqueName": "/Users/nicholasokolo/Documents/GitHub/cityAPI/CityInfo/CityInfo/CityInfo.csproj",
       "projectName": "CityInfo",
-      "projectPath": "/Users/nicholasokolo/Documents/GitHub/CityInfo/CityInfo/CityInfo.csproj",
+      "projectPath": "/Users/nicholasokolo/Documents/GitHub/cityAPI/CityInfo/CityInfo/CityInfo.csproj",
       "packagesPath": "/Users/nicholasokolo/.nuget/packages/",
-      "outputPath": "/Users/nicholasokolo/Documents/GitHub/CityInfo/CityInfo/obj/",
+      "outputPath": "/Users/nicholasokolo/Documents/GitHub/cityAPI/CityInfo/CityInfo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LTnhHhreArrby5WYL+iDRyMFrKtbIUpgBle8J+ET3BP0UbUlikjlKVEYhu4YfXoUNA/Vr4Giwf5oaCtLbHMoFQ==",
+  "dgSpecHash": "XBcbXGVg1fS0EtOMhpKd4s8B5cbvobr+SXvtYkv6AOZeV+kY7V4ShC4i8DdOoM2zapdbUpEkSo6OFu0RTnRTWg==",
   "success": true,
-  "projectFilePath": "/Users/nicholasokolo/Documents/GitHub/CityInfo/CityInfo/CityInfo.csproj",
+  "projectFilePath": "/Users/nicholasokolo/Documents/GitHub/cityAPI/CityInfo/CityInfo/CityInfo.csproj",
   "expectedPackageFiles": [
     "/Users/nicholasokolo/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/nicholasokolo/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.0.0/microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
